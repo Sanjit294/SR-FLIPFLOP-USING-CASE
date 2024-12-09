@@ -41,17 +41,19 @@ the timing diagram.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: 24005054 RegisterNumber: Sanjit A
+Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: 24005054 RegisterNumber: Sanjit A
 
 ![image](https://github.com/user-attachments/assets/4bcd8345-d48d-4d57-9509-8138d62d3b7a)
 
-*/
+
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![image](https://github.com/user-attachments/assets/5fc6960e-e1e5-4e66-a19f-f7ce7bdca078)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![image](https://github.com/user-attachments/assets/62fa48c6-d45d-4da0-8d94-589631895f54)
 
 
